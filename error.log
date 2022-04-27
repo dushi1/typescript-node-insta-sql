@@ -1,0 +1,43 @@
+{"code":"ER_BAD_DB_ERROR","errno":1049,"fatal":true,"level":"error","service":"user-service","sqlMessage":"Unknown database 'test'","sqlState":"42000"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
+{"level":"error","message":"No metadata for \"User\" was found.","service":"user-service"}
